@@ -1,0 +1,8 @@
+Data cleaning
+Data Processing: 
+1) Age Group = 	=IF(E2>=50,"Senior",IF(E2>=40,"Adult","Young"))
+2) Month =  =TEXT(G2,"mmm")
+Data  Analysis
+Data Visualization
+Reports
+Insughts
